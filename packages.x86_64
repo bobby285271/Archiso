@@ -96,6 +96,7 @@ xed
 sddm
 network-manager-applet
 gparted
+gpart
 base-devel
 base
 gvfs
