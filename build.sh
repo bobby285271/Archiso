@@ -3,12 +3,10 @@
 set -e -u
 
 iso_name=dasyatis
-#iso_label="DASYATIS_$(date +%Y)"
-iso_label="DASYATIS_2019"
+iso_label="DASYATIS"
 iso_publisher="Bobby Rong <rjl931189261@126.com>"
 iso_application="Arch Linux Live/Rescue CD"
-#iso_version=$(date +%Y)
-iso_version=2019
+iso_version=$(date +%Y)
 install_dir=arch
 work_dir=work
 out_dir=out
