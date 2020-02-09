@@ -1,6 +1,9 @@
-# [Dasyatis 的 Arch Linux 安装镜像](https://www.bobby285271.top/index.php/archiso.html)
+# [Dasyatis 的 Arch Linux 安装镜像](https://www.bobby285271.top/index.php/archiso)
+
+> 以下内容只适用于 Build 244 或更早期版本。
 
 ### 准备
+
 请确保你在使用 Arch Linux 且安装了 `archiso` 和 `git` 软件包。
 
 将本项目仓库克隆到本地：
