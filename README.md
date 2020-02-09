@@ -1,6 +1,8 @@
-# [Dasyatis 的 Arch Linux 安装镜像](https://www.bobby285271.top/index.php/archiso)
+# Dasyatis 的 Arch Linux 安装镜像
 
-> 以下内容只适用于 Build 244 或更早期版本。
+中文：https://www.bobby285271.top/index.php/archiso-chinese/
+
+English：https://www.bobby285271.top/index.php/archiso/
 
 ### 准备
 
