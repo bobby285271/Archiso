@@ -93,7 +93,7 @@ ttf-dejavu
 ttf-inconsolata
 xorg-drivers
 xed
-sddm
+lightdm
 network-manager-applet
 gparted
 gpart

@@ -33,3 +33,6 @@ echo "root:root" | chpasswd
 passwd -d live
 passwd -u live
 echo "live:live" | chpasswd
+
+groupadd autologin
+gpasswd -a live autologin
