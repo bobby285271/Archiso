@@ -6,7 +6,7 @@ English：https://www.bobby285271.top/index.php/studio/archiso-en/
 
 ### 准备
 
-请确保你在使用 Arch Linux 且安装了 `archiso` 和 `git` 软件包。
+请确保你在使用 Arch Linux（若使用 Docker 需要 `--privileged` 选项）且安装了 `archiso` 和 `git` 软件包。
 
 将本项目仓库克隆到本地：
 ```plain
