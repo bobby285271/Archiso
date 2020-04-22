@@ -88,9 +88,8 @@ xdg-user-dirs
 git
 firefox-i18n-zh-cn
 adobe-source-han-sans-cn-fonts
+adobe-source-code-pro-fonts
 ttf-liberation
-ttf-dejavu
-ttf-inconsolata
 xorg-drivers
 xed
 lightdm
@@ -100,3 +99,4 @@ gpart
 base-devel
 base
 gvfs
+xfce4-screenshooter 
