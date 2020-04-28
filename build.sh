@@ -3,10 +3,10 @@
 set -e -u
 
 iso_name=dasyatis
-iso_label="DASYATIS"
-iso_publisher="Bobby Rong <rjl931189261@126.com>"
-iso_application="Arch Linux Live/Rescue CD"
-iso_version=$(date +%Y)
+iso_label="Dasyatis_$(date +%Y%m%d)"
+iso_publisher="Bobby Rong <admin@bobby285271.top>"
+iso_application="Arch Linux Live CD, customized and built by Bobby Rong"
+iso_version=autobuild
 install_dir=arch
 work_dir=work
 out_dir=out
@@ -168,9 +168,9 @@ make_efi() {
         ${script_path}/efiboot/loader/entries/archiso-x86_64-usb.conf > ${work_dir}/iso/loader/entries/archiso-x86_64.conf
 
     # EFI Shell 2.0 for UEFI 2.3+
-    curl -o ${work_dir}/iso/EFI/shellx64_v2.efi https://bobby285271.coding.net/p/efi-shell-x64/d/efi-shell-x64/git/raw/master/ShellBinPkg/UefiShell/X64/Shell.efi
+    curl -o ${work_dir}/iso/EFI/shellx64_v2.efi https://raw.githubusercontent.com/tianocore/edk2/UDK2018/ShellBinPkg/UefiShell/X64/Shell.efi
     # EFI Shell 1.0 for non UEFI 2.3+
-    curl -o ${work_dir}/iso/EFI/shellx64_v1.efi https://bobby285271.coding.net/p/efi-shell-x64/d/efi-shell-x64/git/raw/master/EdkShellBinPkg/FullShell/X64/Shell_Full.efi
+    curl -o ${work_dir}/iso/EFI/shellx64_v1.efi https://raw.githubusercontent.com/tianocore/edk2/UDK2018/EdkShellBinPkg/FullShell/X64/Shell_Full.efi
 }
 
 # Prepare efiboot.img::/EFI for "El Torito" EFI boot mode
