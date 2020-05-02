@@ -1,8 +1,4 @@
-# Dasyatis 的 Arch Linux 安装镜像
-
-中文：https://www.bobby285271.top/index.php/studio/archiso/
-
-English：https://www.bobby285271.top/index.php/studio/archiso-en/
+# [Dasyatis 的 Arch Linux 安装镜像](https://www.bobby285271.top/index.php/Archiso.html)
 
 ### 准备
 
