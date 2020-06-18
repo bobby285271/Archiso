@@ -1,5 +1,7 @@
 # [Dasyatis 的 Arch Linux 安装镜像](https://www.bobby285271.top/index.php/Archiso.html)
 
+本 Profile 基于 archiso 43，我这两天有时间就适配 archiso 44。
+
 ### 准备
 
 请确保你在使用 Arch Linux（若使用 Docker 需要 `--privileged` 选项）且安装了 `archiso` 和 `git` 软件包。
