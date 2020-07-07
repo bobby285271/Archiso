@@ -56,7 +56,7 @@ parted
 partimage
 ppp
 pptpclient
-refind-efi
+refind
 reiserfsprogs
 rp-pppoe
 rsync
@@ -99,4 +99,5 @@ gpart
 base-devel
 base
 gvfs
-xfce4-screenshooter 
+xfce4-screenshooter
+
