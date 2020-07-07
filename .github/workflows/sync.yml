@@ -1,0 +1,21 @@
+name: Sync repository
+
+on:
+  schedule:
+    - cron:  '0 9 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync
+        shell: bash
+        env:
+          codingpasswd: ${{ secrets.codingpasswd }}
+        run: |
+          mkdir TRAVIS
+          cd TRAVIS
+          git clone https://github.com/bobby285271/Archiso.git
+          cd Archiso
+          git push https://${codinguser}:${codingpasswd}@e.coding.net/bobby285271/Archiso.git
+          
