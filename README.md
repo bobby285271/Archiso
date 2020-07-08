@@ -1,6 +1,6 @@
 # [Dasyatis 的 Arch Linux 安装镜像](https://www.bobby285271.top/index.php/Archiso.html)
 
-本 Profile 基于 archiso 43。
+本 Profile 基于 archiso 45。
 
 ### 准备
 
@@ -34,7 +34,7 @@ iso_version=$(date +%Y.%m.%d)
 install_dir=arch
 work_dir=work
 out_dir=out
-gpg_key=
+gpg_key=""
 ```
 
 ### 构建
