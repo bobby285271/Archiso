@@ -1,4 +1,4 @@
-# [Dasyatis 的 Arch Linux 安装镜像](https://www.bobby285271.top/index.php/Archiso.html)
+# Dasyatis 的 Arch Linux 安装镜像
 
 本 Profile 基于 archiso 43。
 
