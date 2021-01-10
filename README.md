@@ -12,6 +12,5 @@
 # cd Archiso
 ```
 
-### 配置
-配置过程请参考：[ArchWiki](https://wiki.archlinux.org/index.php/Archiso)。
-
+### 配置与构建
+请参考：[ArchWiki](https://wiki.archlinux.org/index.php/Archiso)。
