@@ -1,6 +1,6 @@
 # Dasyatis 的 Arch Linux 安装镜像
 
-本 Profile 基于 archiso 45（最新版本为 archiso 46）。
+本 Profile 基于 archiso 45。
 
 ### 准备
 
