@@ -8,8 +8,11 @@
 
 ### 获取镜像
 
-- 百度网盘：https://pan.baidu.com/s/1Hnxy805j-BFbxMv-WeNcdQ 
-- 提取码：`hu6p`
+**用户名 `live` 密码 `live`，用户名 `root` 密码 `root`**
+
+百度网盘：https://pan.baidu.com/s/1Hnxy805j-BFbxMv-WeNcdQ 
+
+提取码：`hu6p`
 
 ### 自行构建
 
