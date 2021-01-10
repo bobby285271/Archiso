@@ -18,7 +18,7 @@
 
 请确保你在使用 Arch Linux（若使用 Docker 需要 `--privileged` 选项）且安装了 `archiso` 和 `git` 软件包。
 
-在 root 权限下将本项目仓库克隆到本地：
+在 root 权限下拉取仓库并开始构建：
 
 ```plain
 # git clone https://github.com/bobby285271/Archiso.git
