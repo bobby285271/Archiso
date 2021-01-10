@@ -1,0 +1,5 @@
+root:x:0:root
+sudo:x:4:live
+wheel:x:10:live
+autologin:x:960:live
+live:x:1000:
