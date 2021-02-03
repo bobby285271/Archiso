@@ -1,6 +1,6 @@
 # Dasyatis 的 Arch Linux 安装镜像
 
-本 Profile 基于 archiso 50。
+本 Profile 基于 archiso 50 (releng)，在 archiso 51 同样可以构建。
 
 不对上游配置作任何删减，额外提供了一个最小化的 xfce4 桌面环境和一些必须的图形化应用以协助安装或修复 Arch Linux。
 
