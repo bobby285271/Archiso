@@ -1,0 +1,10 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+EDITOR=nano
+GTK_IM_MODULE=fcitx
+QT_IM_MODULE=fcitx
+SDL_IM_MODULE=fcitx
+XMODIFIERS=@im=fcitx
