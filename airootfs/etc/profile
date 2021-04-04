@@ -1,4 +1,0 @@
-if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
-  export LANG=zh_CN.UTF-8
-  exec startxfce4
-fi
